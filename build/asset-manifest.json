@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nba-bets-dashboard/static/css/main.81fab442.css",
+    "main.js": "/nba-bets-dashboard/static/js/main.bf874168.js",
+    "index.html": "/nba-bets-dashboard/index.html",
+    "main.81fab442.css.map": "/nba-bets-dashboard/static/css/main.81fab442.css.map",
+    "main.bf874168.js.map": "/nba-bets-dashboard/static/js/main.bf874168.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81fab442.css",
+    "static/js/main.bf874168.js"
+  ]
+}
