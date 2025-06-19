@@ -1,0 +1,48 @@
+[
+    {
+      "player": "Jayson Tatum",
+      "stat": "Points",
+      "side": "Over",
+      "line": 27.5,
+      "odds": 1.85,
+      "ev": 0.12,
+      "justification": "Tatum has averaged 29.8 PPG over his last 5 games and faces a defense that allows the 4th most points to SFs."
+    },
+    {
+      "player": "Nikola Jokic",
+      "stat": "Assists",
+      "side": "Under",
+      "line": 9.5,
+      "odds": 1.75,
+      "ev": 0.07,
+      "justification": "Denver plays at a slower pace vs top assist-suppressing team; Jokic has gone under in 4 of last 5."
+    },
+    {
+      "player": "Stephen Curry",
+      "stat": "3PT Made",
+      "side": "Over",
+      "line": 4.5,
+      "odds": 1.9,
+      "ev": 0.10,
+      "justification": "Curry has hit 5+ threes in 6 of his last 7 games against the Lakers."
+    },
+    {
+      "player": "Giannis Antetokounmpo",
+      "stat": "Rebounds",
+      "side": "Over",
+      "line": 11.5,
+      "odds": 1.8,
+      "ev": 0.08,
+      "justification": "Giannis is averaging 12.2 RPG in his last 5, and the opposing team ranks bottom 3 in defensive rebounding."
+    },
+    {
+      "player": "LeBron James",
+      "stat": "Turnovers",
+      "side": "Under",
+      "line": 3.5,
+      "odds": 1.9,
+      "ev": 0.09,
+      "justification": "LeBron has stayed under 3.5 turnovers in 8 of his last 10 games."
+    }
+  ]
+  
