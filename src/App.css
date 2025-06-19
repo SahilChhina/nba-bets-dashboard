@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background-color: #fdf7f0;
+}
+
+.hero {
+  background-color: rgb(46, 112, 211);
+  color: white;
+  padding: 0px 0;
+  position: relative;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  font-size: 1.25rem;
+}
+
+.wave-divider {
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  width: 100%;
+  line-height: 0;
+}
+
+.card {
+  background: white;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  margin: 1rem;
+  max-width: 550px;
+}
+
+
+.header{
+margin-bottom: 400px;
+}
